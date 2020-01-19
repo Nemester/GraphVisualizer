@@ -1,7 +1,7 @@
 # Graph Visualizer
 
-This is a (very) small python script that takes data from a csv and displays a corresponding graph (see example). I uses the [pyvis](https://pyvis.readthedocs.io/en/latest/index.html) librabry
-The script can be used for e.g. analysing group memberships in an AD.
+This is a (very) small python script that takes data from a csv and displays a corresponding graph (see example). It uses the [pyvis](https://pyvis.readthedocs.io/en/latest/index.html) librabry
+The script can be used for e.g. analysing group membership in an AD.
 
 ## Example
 Heres an example with the visualization of groups and group-membership. The source data (csv) looks as follows:
